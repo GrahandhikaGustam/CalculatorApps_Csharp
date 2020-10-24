@@ -1,0 +1,10 @@
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\obj\Debug\Calculator.Apps.csprojAssemblyReference.cache
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\obj\Debug\Calculator.Apps.Form1.resources
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\obj\Debug\Calculator.Apps.Properties.Resources.resources
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\obj\Debug\Calculator.Apps.csproj.GenerateResource.cache
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\obj\Debug\Calculator.Apps.csproj.CoreCompileInputs.cache
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\bin\Debug\Calculator.Apps.exe.config
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\bin\Debug\Calculator.Apps.exe
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\bin\Debug\Calculator.Apps.pdb
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\obj\Debug\Calculator.Apps.exe
+D:\Kk3 Project\Calculator.Apps\Calculator.Apps\obj\Debug\Calculator.Apps.pdb
